@@ -1,0 +1,45 @@
+:root {
+  --ink: #1d2b3b;
+  --muted: #66717e;
+  --paper: #f7f4ed;
+  --accent: #c95732;
+  --line: rgba(29, 43, 59, 0.16);
+}
+
+body { letter-spacing: -0.008em; }
+#quarto-content { min-height: 80vh; }
+.page-layout-full .page-columns { display: block; }
+.page-layout-full main.content { max-width: 880px; margin-inline: auto; padding-inline: 1.5rem; }
+.quarto-title-block { display: none; }
+
+.masthead { padding: 7rem 0 6rem; border-bottom: 1px solid var(--line); }
+.site-name, .entry-type { color: var(--accent); font-size: .72rem; font-weight: 750; letter-spacing: .14em; text-transform: uppercase; }
+.masthead h1 { max-width: 760px; margin: 1rem 0 1.35rem; font-size: clamp(3.7rem, 9vw, 7rem); line-height: .94; letter-spacing: -.055em; }
+.masthead > p:last-child { max-width: 590px; color: var(--muted); font-size: 1.15rem; line-height: 1.65; }
+
+.feed { margin-bottom: 6rem; }
+.entry { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 2.5rem; padding: 4.5rem 0; border-bottom: 1px solid var(--line); }
+.entry-date time { color: var(--muted); font-size: .76rem; font-weight: 650; letter-spacing: .08em; line-height: 1.55; text-transform: uppercase; }
+.entry-body { min-width: 0; }
+.entry-type { margin: 0 0 .6rem; }
+.entry-body h2 { margin: 0 0 1.4rem; font-size: clamp(2rem, 5vw, 3.3rem); letter-spacing: -.035em; }
+.entry-body p:not(.entry-type), .entry-body li { font-size: 1.04rem; line-height: 1.75; }
+.entry-body img { display: block; width: 100%; margin-top: 1.5rem; }
+.button { display: inline-block; margin: .8rem .8rem 0 0; padding: .65rem 1rem; border-radius: 999px; background: var(--ink); color: var(--paper); font-weight: 700; text-decoration: none; }
+.button:hover { background: var(--accent); color: white; }
+.text-link { font-weight: 700; text-decoration: none; }
+
+.colophon { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 2.5rem; padding: 0 0 7rem; }
+.colophon h2 { margin: 0; font-size: 1rem; }
+.colophon p { margin-top: 0; color: var(--muted); line-height: 1.7; }
+.colophon a { font-weight: 650; text-decoration: none; }
+
+.nav-footer { border-top: 1px solid var(--line); background: var(--paper) !important; }
+
+@media (max-width: 620px) {
+  .masthead { padding: 5rem 0 4rem; }
+  .masthead h1 { font-size: 3.6rem; }
+  .entry { grid-template-columns: 1fr; gap: .8rem; padding: 3.4rem 0; }
+  .entry-date time br { display: none; }
+  .colophon { grid-template-columns: 1fr; gap: .8rem; }
+}

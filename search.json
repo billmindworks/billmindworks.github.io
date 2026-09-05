@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bill Mindworks",
+    "section": "",
+    "text": "Bill Mindworks\n\n\n\nWriting, presentations, and photographs—in chronological order."
+  },
+  {
+    "objectID": "index.html#my-art-work",
+    "href": "index.html#my-art-work",
+    "title": "Bill Mindworks",
+    "section": "My Art Work",
+    "text": "My Art Work\n\n\n\nAct 1 Scene 5"
+  },
+  {
+    "objectID": "index.html#hello-world",
+    "href": "index.html#hello-world",
+    "title": "Bill Mindworks",
+    "section": "Hello, World!",
+    "text": "Hello, World!\nThis is my first note. Enjoy reading!"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Bill Mindworks",
+    "section": "About",
+    "text": "About\nBill Mindworks is a personal, chronological archive. Replace this paragraph with a short introduction about yourself and your work.\nGitHub · Email"
+  }
+]
