@@ -1,30 +1,58 @@
 [
   {
+    "objectID": "articles/long-article.html",
+    "href": "articles/long-article.html",
+    "title": "Long article title",
+    "section": "",
+    "text": "← Back to all entries\nBegin with a short opening paragraph that tells readers what the article is about and why it matters."
+  },
+  {
+    "objectID": "articles/long-article.html#first-section",
+    "href": "articles/long-article.html#first-section",
+    "title": "Long article title",
+    "section": "First section",
+    "text": "First section\nWrite the main article here. Use second-level headings for the major sections of a long article.\n\nA subsection\nUse third-level headings when a section needs more structure. Standard Markdown features—including links, lists, quotations, images, footnotes, and code blocks—work normally.\n\nUse block quotations sparingly and identify the source."
+  },
+  {
+    "objectID": "articles/long-article.html#adding-images",
+    "href": "articles/long-article.html#adding-images",
+    "title": "Long article title",
+    "section": "Adding images",
+    "text": "Adding images\nStore article images in articles/images/ and use a path relative to this file:\n![A descriptive caption](images/example.jpg)"
+  },
+  {
+    "objectID": "articles/long-article.html#conclusion",
+    "href": "articles/long-article.html#conclusion",
+    "title": "Long article title",
+    "section": "Conclusion",
+    "text": "Conclusion\nEnd with the central takeaway or a useful next question."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bill Mindworks",
+    "title": "Exploring the mind behind everyday behavior",
     "section": "",
     "text": "Bill Mindworks\n\n\n\nWriting, presentations, and photographs—in chronological order."
   },
   {
-    "objectID": "index.html#my-art-work",
-    "href": "index.html#my-art-work",
-    "title": "Bill Mindworks",
-    "section": "My Art Work",
-    "text": "My Art Work\n\n\n\nAct 1 Scene 5"
+    "objectID": "index.html#eca-intro-to-psychology",
+    "href": "index.html#eca-intro-to-psychology",
+    "title": "Exploring the mind behind everyday behavior",
+    "section": "ECA: Intro to Psychology",
+    "text": "ECA: Intro to Psychology\n\n\n\nECA Poster"
   },
   {
     "objectID": "index.html#hello-world",
     "href": "index.html#hello-world",
-    "title": "Bill Mindworks",
+    "title": "Exploring the mind behind everyday behavior",
     "section": "Hello, World!",
-    "text": "Hello, World!\nThis is my first note. Enjoy reading!"
+    "text": "Hello, World!\nThis is my first note. Enjoy reading!\n\n\n\nRomeo and Juliet, Act 1 Scene 5"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Bill Mindworks",
+    "title": "Exploring the mind behind everyday behavior",
     "section": "About",
-    "text": "About\nBill Mindworks is a personal, chronological archive. Replace this paragraph with a short introduction about yourself and your work.\nGitHub · Email"
+    "text": "About\nBill Mindworks is a personal, chronological archive.\nGitHub · Email"
   }
 ]

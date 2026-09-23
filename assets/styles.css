@@ -10,7 +10,6 @@ body { letter-spacing: -0.008em; }
 #quarto-content { min-height: 80vh; }
 .page-layout-full .page-columns { display: block; }
 .page-layout-full main.content { max-width: 880px; margin-inline: auto; padding-inline: 1.5rem; }
-.quarto-title-block { display: none; }
 
 .masthead { padding: 7rem 0 6rem; border-bottom: 1px solid var(--line); }
 .site-name, .entry-type { color: var(--accent); font-size: .72rem; font-weight: 750; letter-spacing: .14em; text-transform: uppercase; }
@@ -27,7 +26,23 @@ body { letter-spacing: -0.008em; }
 .entry-body img { display: block; width: 100%; margin-top: 1.5rem; }
 .button { display: inline-block; margin: .8rem .8rem 0 0; padding: .65rem 1rem; border-radius: 999px; background: var(--ink); color: var(--paper); font-weight: 700; text-decoration: none; }
 .button:hover { background: var(--accent); color: white; }
-.text-link { font-weight: 700; text-decoration: none; }
+.text-link, .article-link { font-weight: 700; text-decoration: none; }
+.article-link { display: inline-block; margin-top: .65rem; }
+
+/* Long article pages */
+.page-layout-article main.content { max-width: 760px; }
+.quarto-title-block { margin: 5rem 0 3rem; padding-bottom: 2.2rem; border-bottom: 1px solid var(--line); }
+.quarto-title-block .title { font-size: clamp(2.8rem, 7vw, 5rem); line-height: 1; letter-spacing: -.045em; }
+.quarto-title-block .description { max-width: 650px; color: var(--muted); font-size: 1.1rem; line-height: 1.65; }
+.quarto-title-meta { color: var(--muted); }
+.page-layout-article main.content > p,
+.page-layout-article main.content > ul,
+.page-layout-article main.content > ol,
+.page-layout-article main.content > blockquote { font-size: 1.08rem; line-height: 1.8; }
+.page-layout-article main.content > h2 { margin-top: 3.2rem; }
+.page-layout-article main.content > h3 { margin-top: 2.2rem; }
+.back-link { display: inline-block; margin: 0 0 2.5rem; color: var(--muted); font-size: .86rem; font-weight: 700; text-decoration: none; }
+.back-link:hover { color: var(--accent); }
 
 .colophon { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 2.5rem; padding: 0 0 7rem; }
 .colophon h2 { margin: 0; font-size: 1rem; }
@@ -42,4 +57,5 @@ body { letter-spacing: -0.008em; }
   .entry { grid-template-columns: 1fr; gap: .8rem; padding: 3.4rem 0; }
   .entry-date time br { display: none; }
   .colophon { grid-template-columns: 1fr; gap: .8rem; }
+  .quarto-title-block { margin-top: 3.5rem; }
 }

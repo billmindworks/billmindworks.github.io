@@ -1,1 +1,1 @@
-Sitemap: https://billmindworks.github.io/billmindworks/sitemap.xml
+Sitemap: https://billmindworks.github.io/sitemap.xml
