@@ -1,31 +1,66 @@
 [
   {
-    "objectID": "articles/long-article.html",
-    "href": "articles/long-article.html",
-    "title": "Long article title",
+    "objectID": "articles/is-objectivity-all-in-the-mind.html",
+    "href": "articles/is-objectivity-all-in-the-mind.html",
+    "title": "Is Objectivity All in the Mind?",
     "section": "",
-    "text": "← Back to all entries\nBegin with a short opening paragraph that tells readers what the article is about and why it matters."
+    "text": "← Back to all entries"
   },
   {
-    "objectID": "articles/long-article.html#first-section",
-    "href": "articles/long-article.html#first-section",
-    "title": "Long article title",
-    "section": "First section",
-    "text": "First section\nWrite the main article here. Use second-level headings for the major sections of a long article.\n\nA subsection\nUse third-level headings when a section needs more structure. Standard Markdown features—including links, lists, quotations, images, footnotes, and code blocks—work normally.\n\nUse block quotations sparingly and identify the source."
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#abstract",
+    "href": "articles/is-objectivity-all-in-the-mind.html#abstract",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Abstract",
+    "text": "Abstract\nObjectivity is the state of being unaffected by emotions or personal opinions when considering or representing information. The existence of true objectivity is important because most information sources aim to be as objective as possible. The primary objective of this essay is to substantiate the argument that true objectivity is an impossibility using theoretical analysis and empirical evidence. The existence of true objectivity and whether a person can achieve it is under debate, and I use the biopsychosocial model to support my point. I conclude that true objectivity may exist in the form of very simple and brief descriptions of objects or even events; still, it becomes more challenging in much more complex situations. For a person to remain consistently objective is impossible due to the numerous influencing factors identified in the literature.\nKeywords: Objectiveness, Biopsychosocial model, Bias."
   },
   {
-    "objectID": "articles/long-article.html#adding-images",
-    "href": "articles/long-article.html#adding-images",
-    "title": "Long article title",
-    "section": "Adding images",
-    "text": "Adding images\nStore article images in articles/images/ and use a path relative to this file:\n![A descriptive caption](images/example.jpg)"
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#introduction",
+    "href": "articles/is-objectivity-all-in-the-mind.html#introduction",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Introduction",
+    "text": "Introduction\nObjectivity, something that news networks try to pursue but fail miserably, is it possible to be truly objective or totally “based” for kids nowadays? We will determine this by defining objectivity as a reference point. Objectivity is the quality of not being affected by (any) personal feelings or opinions when considering and representing information, where true theoretical objectivity means it will not be affected by any views or feelings when considering or representing information. It is debatable whether true objectivity exists.\nSome people argue that true objectivity is hard to obtain, but it is possible, while others believe that true objectivity does not exist. True objectivity can be achieved with extremely brief and simple descriptions, but consistently maintaining the quality of being objective or nondiscriminatory in describing more complex events in detail is impossible.\nTrue objectivity is not possible due to the numerous conscious and unconscious influences that can impact our consideration and representation of information. Additionally, if someone were to provide an objective piece of information, it would not be perceived as such by different people. I apply the biopsychosocial model to support the argument that true objectivity may not be absolute. Specifically, the model is used to demonstrate that neurobiological, psychological, and social factors can all contribute to hindering objectivity."
   },
   {
-    "objectID": "articles/long-article.html#conclusion",
-    "href": "articles/long-article.html#conclusion",
-    "title": "Long article title",
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#neurobiological-factors",
+    "href": "articles/is-objectivity-all-in-the-mind.html#neurobiological-factors",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Neurobiological factors",
+    "text": "Neurobiological factors\nI will start by focusing on the “bio” in the biopsychosocial model, where certain biological influences, both with and without our alertness, can impact our consideration and representation of information. For example, the Zajonc-LeDoux theory states that our cognitive and emotional responses do not follow the same pattern (LeDoux, 1989; 1995). When exposed to a particular stimulus, the amygdala becomes activated,1 but after a short while, the prefrontal cortex evaluates the stimulus and decides whether to inhibit the amygdala.2 One practical example is that when a person hears a bark, it automatically triggers their amygdala; however, when their prefrontal cortex recognizes it as their dog, it immediately inhibits the amygdala. This theory has been shown to apply to a person’s perception of another race, where looking at the face of another person activates their amygdala, but the prefrontal cortex inhibits this response in a similar manner (Cunningham et al., 2004).\nPhysiological states can also affect judgment. For example, Briers et al. (2006) found that judges are more likely to deny parole when they are hungry than when they are full. Cognitive load, or mental energy depletion, can skew our judgment and behavior without our awareness (Mead et al., 2009; Hagger et al., 2010). These studies show that humans become less rational, less charitable, and more easily irritable. These examples illustrate neurobiological factors that can influence our judgment and behavior, potentially hindering our impartiality."
+  },
+  {
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#psychological-factors",
+    "href": "articles/is-objectivity-all-in-the-mind.html#psychological-factors",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Psychological factors",
+    "text": "Psychological factors\nIn this section, I will use “psycho” in the biopsychosocial model to explain psychological influences that can affect objectivity. A notable effect is priming, which occurs when a person is exposed to a particular stimulus that influences their subsequent behavior or cognition. For instance, hearing crunching sounds makes people think potato chips taste better (Zampini and Spence, 2004).\nOne of the most heavily covered areas in social psychology is heuristics. Heuristics refers to the mental shortcuts people use in cognition; it is the opposite of algorithmic thinking, where specific, precise steps are used to achieve something consistently, such as a math equation. There are three major types of mental shortcuts.\nThe first one is the availability heuristic. It occurs when people rely on immediate examples instead of focusing on statistics realistically (Tversky and Kahneman, 1973). An example of this is when a person is asked to report the percentage of the group project work they contributed. This bias occurs when this person uses readily available examples, such as the last time they made a contribution. This would lead the person to overestimate their contributions.\nThe second heuristic is the representative heuristic, where people assume the possibility of an outcome based on the probability of a related event or thing (Kahneman and Tversky, 1971). This is related to stereotyping, where a person generalizes a label to everyone in a group.\nThe third heuristic, also known as the anchoring effect, is a phenomenon in which a person over-relies on the first piece of information, or anchor, they obtain (Tversky and Kahneman, 1974). An example of this is using a high-end car in a car dealership (the anchor) and then showing a less expensive one to make it seem more reasonable. This is similar to the power of suggestion, where a salesperson proposes an anchor and the customer bases their decision or estimate around it. Of course, this heuristic (as well as many others) is affected by many internal and external factors and conditions (Furnham and Boo, 2011).\nOur biases also extend to statistical fallacies, including the overweighting of data and the laws of small numbers. Overweighting is often the result of other heuristics and biases. For example, the available heuristic, where a person tends to use readily available examples to guess the probability or amount, usually leads to overestimation, without relying on actual statistics. The law of small numbers states that when a sample size is small, small random changes appear to have a significant impact on data analysis (Tversky and Kahneman, 1971).\nFraming, or how a person presents a fact or problem, also triggers different responses. For example, leading questions affect the memory recalled from eyewitnesses (Loftus, 1975). It also affects our decision-making through framing (Tversky and Kahneman, 1981). Confirmation bias, first coined by Peter Watson in the 1960s, is a common bias where we tend to follow information that supports our views and ignore information that does not (Wason, 1960). In addition, context and mood influence memory retrieval, with a tendency to have an improved ability to retrieve memories when the physical environment is where the memory was first formed (Tulving and Thomson, 1973; Reder et al., 1974).\nThe above examples of cognitive biases and heuristics are all valid cognitive factors that can affect our ability to represent or consider information objectively."
+  },
+  {
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#social-factors",
+    "href": "articles/is-objectivity-all-in-the-mind.html#social-factors",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Social factors",
+    "text": "Social factors\nFinally, it is vital to explore the “social” factors in the biopsychosocial model, specifically using social influences to explain factors that can affect our consideration and representation of information. The literature on social influences demonstrates that the mere presence of others can influence our behavior and performance (Morgan et al., 2022). The power of suggestion can significantly affect our cognition, whether we are aware of it or not. Just as the power of suggestion is utilized in hypnosis,3 where suggestion alters our neurofunctions and can influence our beliefs (Lush et al., 2017). The power of suggestion may also be related to the mere exposure effect, coined by Robert Zajonc (1968), where people tend to prefer objects they have briefly seen before rather than objects they have not.\nThis includes the effect of stereotypes as well, which is activation in the amygdala without our awareness when shown stimuli that are a negative stereotype of another race (Forbes et al., 2012). Socio-cultural factors and norms significantly influence our behavior and cognition, particularly cultural taboos. Chen-Xia et al. (2023) concluded that: “Cultural factors shape individuals’ perceptions of social norm violations, emphasizing the need to consider cultural differences when addressing incivility.”\nSome of the most influential and classic studies in social psychology are also connected with this topic. For example, Solomon Asch’s famous 1951 study on conformity reveals that individuals tend to follow the majority rather than their own opinions (Asch, 1951). A case in point is when a reporter reports information that presents a skewed view, which the general public accepts rather than the truth. Other examples of social influence include obedience, where one obeys authorities despite it being contrary to their own values, and compliance with the wishes of others (Milgram, 1963).\nThere is a substantial amount of empirical evidence to support the notion that social influences play a conscious and unconscious role in shaping our behavior and cognition, which can potentially impact our ability to remain objective."
+  },
+  {
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#conclusion",
+    "href": "articles/is-objectivity-all-in-the-mind.html#conclusion",
+    "title": "Is Objectivity All in the Mind?",
     "section": "Conclusion",
-    "text": "Conclusion\nEnd with the central takeaway or a useful next question."
+    "text": "Conclusion\nThere is an overwhelming amount of evidence and factors that cause a person to not be truly objective, especially from the biopsychosocial model. Because there are too many factors, both in our conscious and unconscious awareness, that affect our ability to be truly theoretically objective or consider and represent information completely unbiased, even if there is a truly theoretically objective piece of information, different people will interpret it differently (confirmation bias and many other factors). However, we can always strive to be as objective as possible, as long as we avoid falling into a blind spot bias. Of course, true objectivity may be possible with incredibly simple descriptions, but for a complex description of a more complex thing, or to consistently be objective, is impossible due to the factors I explained."
+  },
+  {
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#bibliography",
+    "href": "articles/is-objectivity-all-in-the-mind.html#bibliography",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Bibliography",
+    "text": "Bibliography\n\nAsch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments. In H. Guetzkow (Ed.), Groups, leadership and men: Research in human relations (pp. 177–190). Carnegie Press.\nBriers, B., Pandelaere, M., Dewitte, S., & Warlop, L. (2006). Hungry for money: The desire for caloric resources increases the desire for financial resources and vice versa. Psychological Science, 17(11), 939–943.\nChen-Xia, X. J., Liu, J., Zhao, L., & Zhang, H. (2023). Cultural variations in perceptions and reactions to social norm transgressions: A comparative study. Frontiers in Psychology, 14, 10548130.\nCunningham, W. A., Johnson, M. K., Raye, C. L., Gatenby, J. C., Gore, J. C., & Banaji, M. R. (2004). Separable neural components in the processing of Black and White faces. Psychological Science, 15(12), 806–813.\nForbes, C. E., Cox, C. L., Schmader, T., & Ryan, L. (2012). Negative stereotype activation alters interaction between neural correlates of arousal, inhibition, and cognitive control. Social Cognitive and Affective Neuroscience, 7(5), 530–541.\nFurnham, A., & Boo, H. C. (2011). A literature review of the anchoring effect. The Journal of Socio-Economics, 40(1), 35–42.\nHagger, M. S., Wood, C., Stiff, C., & Chatzisarantis, N. L. D. (2010). Ego depletion and the strength model of self-control: A meta-analysis. Psychological Bulletin, 136(4), 495–525.\nKahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263–291.\nLeDoux, J. E. (1989). Cognitive-emotional interactions in the brain. Cognition and Emotion, 3(4), 267–289.\nLeDoux, J. E. (1995). Emotion: Clues from the brain. Annual Review of Psychology, 46, 209–235.\nLoftus, E. F. (1975). Leading questions and the eyewitness report. Cognitive Psychology, 7(4), 560–572.\nLush, P., Caspar, E. A., Cleeremans, A., Haggard, P., Magalhães De Saldanha da Gama, P. A., & Dienes, Z. (2017). The power of suggestion: Posthypnotically induced changes in the temporal binding of intentional action outcomes. Psychological Science, 28(5), 661–669.\nMead, N. L., Baumeister, R. F., Gino, F., Schweitzer, M. E., & Ariely, D. (2009). Too tired to tell the truth: Self-control resource depletion and dishonesty. Journal of Experimental Social Psychology, 45(3), 594–597.\nMilgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371–378.\nMorgan, E. J., Carroll, D. J., Chow, C. K. C., & Freeth, M. (2022). The effect of social presence on mentalizing behavior. Cognitive Science, 46(4), e13126.\nReder, L. M., Anderson, J. R., & Bjork, R. A. (1974). A semantic interpretation of encoding specificity. Journal of Experimental Psychology, 102(4), 648–656.\nTversky, A., & Kahneman, D. (1971). Belief in the law of small numbers. Psychological Bulletin, 76(2), 105–110.\nTversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232.\nTversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131.\nTversky, A., & Kahneman, D. (1971). Subjective probability: A judgement of representativeness. Cognitive Psychology,3(3), 430–454.\nTversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458.\nTulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. Psychological Review, 80(5), 352–373.\nWason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129–140.\nZajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2, Pt. 2), 1–27.\nZampini, M., & Spence, C. (2004). The role of auditory cues in modulating the perceived crispness and staleness of potato chips. Journal of Sensory Studies, 19(5), 347–363."
+  },
+  {
+    "objectID": "articles/is-objectivity-all-in-the-mind.html#footnotes",
+    "href": "articles/is-objectivity-all-in-the-mind.html#footnotes",
+    "title": "Is Objectivity All in the Mind?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe amygdala is an almond-shaped structure in the limbic system that is primarily associated with the experience of emotions.↩︎\nThe prefrontal cortex is part of the cerebral cortex that plays a key role in executive function, personality, and behavior.↩︎\nHypnosis is a state of consciousness where a person is highly responsive to suggestion, usually used in therapy to recover repressed memories, which is a controversial practice.↩︎"
   },
   {
     "objectID": "index.html",
@@ -47,6 +82,13 @@
     "title": "Exploring the mind behind everyday behavior.",
     "section": "Hello, World!",
     "text": "Hello, World!\nThis is my first note. Enjoy reading!\n\n\n\nRomeo and Juliet, Act 1 Scene 5"
+  },
+  {
+    "objectID": "index.html#is-objectivity-all-in-the-mind",
+    "href": "index.html#is-objectivity-all-in-the-mind",
+    "title": "Exploring the mind behind everyday behavior.",
+    "section": "Is Objectivity All in the Mind?",
+    "text": "Is Objectivity All in the Mind?\nUsing the biopsychosocial model, this essay examines how biological, psychological, and social influences make sustained, true objectivity difficult—if not impossible.\nRead article →"
   },
   {
     "objectID": "index.html#about",
